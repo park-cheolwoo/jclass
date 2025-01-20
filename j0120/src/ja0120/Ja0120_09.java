@@ -1,6 +1,6 @@
 package ja0120;
 
-public class Ja1020_09 {
+public class Ja0120_09 {
 
 	public static void main(String[] args) {
 		Product p1 = new Product();
