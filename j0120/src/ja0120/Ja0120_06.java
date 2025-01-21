@@ -33,13 +33,13 @@ public class Ja0120_06 {
 		return result;
 	}
 	
-	static long fac(double n) {
-		
-	}
-	
-	static long fac(long a, long b) {
-		
-	}
+//	static long fac(double n) {
+//		
+//	}
+//	
+//	static long fac(long a, long b) {
+//		
+//	}
 	
 	// 오버로딩 - 1. 이름이 같아야함 2. 매개변수 타입 또는 개수가 달라야함 3. 리턴 타입은 오버로딩의 성립조건이 아님
 	// 변수 종류 - 1. 클래스 변수 : 객체선언 없이 클래스명.변수명 2. 인스턴스 변수 : 객체선언후 참조변수명.변수명 3. 지역변수
