@@ -1,4 +1,4 @@
-package ja0120;
+package j0120;
 
 public class Ja0120_09 {
 
